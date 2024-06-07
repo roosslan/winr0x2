@@ -1,6 +1,6 @@
 # winr0x2
 
-migrated from subversion SVN
+migrated from CVS
 
 Windows tweaker
 
