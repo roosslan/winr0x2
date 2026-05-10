@@ -29,11 +29,7 @@ __published:	// IDE-managed Components
 	TShape *pnlMain;
 	TLabel *StaticTextTitle;
 	TShape *pnlWindowTitle;
-	TShape *sidebarMenu;
-	TShape *sidebarMisc;
-	TShape *sidebarWindows;
 	TRadioButton *rbHelp;
-	TShape *sidebarAccess;
 	TShape *sidebarAppwiz;
 	TShape *Shape9;
 	TRadioButton *rbAbout;
